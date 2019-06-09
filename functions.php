@@ -2,9 +2,10 @@
 //=============================//
   //> Author   : Ahmad sopyan
   //> Email    : ahmadsofian63@gmil.com
-  //> Telpon   : 089635550381
+  //> Telpon   : 089635550381 - 083872700529
   //> Github   : https://github.com/ahmadsopyan9
   //> Facebook : https://www.facebook.com/ahmadsopyan99
+  //> Website  : https://isfidev.site - https://blog.isfidev.site - https://store.isfidev.site
 //=============================//
 
 function Convert($angka) 
